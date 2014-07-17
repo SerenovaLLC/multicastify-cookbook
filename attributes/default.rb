@@ -1,0 +1,3 @@
+
+
+default['multicastify']['version'] = 'latest'
